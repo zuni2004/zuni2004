@@ -4,7 +4,7 @@
 
 👀 I’m interested in cooking, studying, and coding
 
-💼 Currently building web applications. I’m working on the backend — building OCR systems, routers, and exploring real-world applications of machine learning
+💼 Currently building web applications with an Embassy. I’m working on the backend — building OCR systems, routers, and exploring real-world applications of machine learning
 
 🧠 Currently learning and working with new tech stacks like FastAPI, and diving deeper into machine learning
 
