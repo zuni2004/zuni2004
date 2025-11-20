@@ -4,7 +4,7 @@
 
 👀 I’m interested in cooking, studying, and coding
 
-💼 Currently building web applications with an Embassy. I’m working on the backend — building OCR systems, routers, and exploring real-world applications of machine learning
+💼 I’m working on backend — building OCR systems, routers, and exploring real-world applications of machine learning
 
 🧠 Currently learning and working with new tech stacks like FastAPI, and diving deeper into machine learning
 
@@ -14,5 +14,5 @@
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: If I weren’t a Software Engineering student, I’d be studying culinary arts and opening my own restaurant. I love creating—whether it’s in code or in the kitchen. Life can be stressful, but hey, what is life without a little chaos? ;)
+⚡ Fun fact: If I weren’t a Software Engineering student, I’d be studying culinary arts and opening my own restaurant. I love creating.....whether it’s in code or in the kitchen. Life can be stressful, but hey, what is life without a little chaos? ;)
 
